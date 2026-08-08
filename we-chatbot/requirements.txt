@@ -1,0 +1,9 @@
+streamlit>=1.36
+openai>=1.30
+langchain-core>=0.2
+langchain-openai>=0.1
+langchain-qdrant>=0.1
+langchain-text-splitters>=0.2
+qdrant-client>=1.9
+markdown>=3.6
+requests>=2.31
